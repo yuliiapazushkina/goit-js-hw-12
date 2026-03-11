@@ -22,29 +22,49 @@ https://github.com/yuliiapazushkina/goit-js-hw-12
 
 ## 🛠 Tech Stack
 - Frontend
+
 - HTML5
+
 - CSS3
+
 - JavaScript (ES6+)
+
 - Libraries
+
 - Axios (HTTP requests)
+
 - SimpleLightbox (image modal viewer)
+
 - iziToast (notifications)
+
 - Tools
+
 - Vite
+
 - Git
+
 - GitHub
+
 - Deployment
+
 - GitHub Pages
 
 ## ⚙️ Key Features
 
 ✔ Search images by keyword
+
 ✔ Fetch images from an external API
+
 ✔ Responsive image gallery layout
+
 ✔ Pagination / Load more functionality
+
 ✔ Modal image preview with SimpleLightbox
+
 ✔ Notifications using iziToast
+
 ✔ Loading indicator while fetching data
+
 ✔ Smooth scrolling after loading new images
 
 📂 Project Structure
